@@ -15,3 +15,11 @@
 11.sub tags:<sub></sub>
 12.super tags:<sup></sup>
 13.Straight line tag:<hr>
+
+10-05-2026
+1.Table tags
+table header:<th></th>
+table row:<tr></tr>
+table data:<td></td>
+2.Ordered List:<ol></ol>
+3.Unordered List:<ul></ul>
