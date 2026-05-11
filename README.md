@@ -23,3 +23,14 @@ table row:<tr></tr>
 table data:<td></td>
 2.Ordered List:<ol></ol>
 3.Unordered List:<ul></ul>
+
+11-5-2026
+1.Forms
+label tag:<label></label>
+Input Tag:<input>
+Radio Tag:<input type="radio">
+Checkbox Tag:<input type="checkbox">
+Drop List:
+Selection tag:To select the option
+  <select></select>
+  <option></option>
